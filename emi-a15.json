@@ -1,5 +1,5 @@
 {
-  "apiPath": "https://app.beaconcred.com",
+  "apiPath": "https://prod.beaconcred.com",
   "h5Path": "https://private.beaconcred.com",
   "version": 1
 }
