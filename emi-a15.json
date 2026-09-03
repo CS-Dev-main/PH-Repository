@@ -1,5 +1,5 @@
 {
-  "apiPath": "https://prod.beaconcred.com",
+  "apiPath": "https://ph-test.metertrust.com",
   "h5Path": "https://private.beaconcred.com",
   "version": 1
 }
